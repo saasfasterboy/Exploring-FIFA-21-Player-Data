@@ -1,4 +1,3 @@
-
 Exploring FIFA 21 Player Data
 Overview
 This project involves analyzing the FIFA 21 player dataset to gain insights into player attributes, positions, skill levels, and other metrics. The goal is to explore trends, compare player stats, and uncover interesting patterns in the dataset.
